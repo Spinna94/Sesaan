@@ -192,7 +192,8 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
 
 .card figure {
   overflow: hidden;
-  aspect-ratio: 4 / 3;
+  /* proporzione nativa delle foto (540x526): nessun taglio */
+  aspect-ratio: 540 / 526;
   margin-bottom: 1.3rem;
   background: #ecebe8;
 }
