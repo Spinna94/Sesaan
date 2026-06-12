@@ -229,67 +229,117 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
 
 .card-cta p { opacity: 0.85; margin-bottom: 1.4rem; }
 
-/* ---------- Gallery "Cosa noleggiamo" ---------- */
+/* ---------- Catalogo ---------- */
 
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: clamp(18px, 2.4vw, 32px);
+.cat-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: clamp(32px, 5vh, 52px);
 }
 
-.gallery-item {
-  position: relative;
-  overflow: hidden;
-  aspect-ratio: 1 / 1;
-  background: #2c2c2c;
-}
-
-.gallery-item img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
-}
-
-.gallery-item:hover img { transform: scale(1.05); }
-
-.gallery-item figcaption {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 14px 18px;
+.cat-filters button {
   font-family: var(--display);
   font-size: 0.72rem;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  background: linear-gradient(transparent, rgba(20, 20, 20, 0.65));
+  color: var(--ink);
+  background: none;
+  border: 1px solid var(--line);
+  padding: 11px 20px;
+  cursor: pointer;
+  transition: background 0.25s, color 0.25s, border-color 0.25s;
 }
 
-.collection-row {
+.cat-filters button:hover { border-color: var(--ink); }
+
+.cat-filters button[aria-pressed="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+.cat-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: clamp(18px, 2.4vw, 32px);
-  margin-top: clamp(40px, 6vh, 64px);
-  padding-top: clamp(32px, 5vh, 48px);
-  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  grid-template-columns: repeat(4, 1fr);
+  gap: clamp(24px, 3vw, 40px) clamp(18px, 2.4vw, 32px);
 }
 
-.collection-row figure { text-align: center; }
+.cat-card figure {
+  aspect-ratio: 1 / 1;
+  background: #f2f1ee;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
 
-.collection-row img {
-  margin-inline: auto;
-  max-width: 260px;
+.cat-card figure img {
   width: 100%;
+  height: 100%;
+  object-fit: contain;
+  /* come sul sito: foto prodotto su fondo chiaro, fuse col fondo */
+  mix-blend-mode: multiply;
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-.collection-row figcaption {
-  margin-top: 0.9rem;
+.cat-card:hover figure img { transform: scale(1.05); }
+
+.cat-card h3 {
   font-family: var(--display);
-  font-size: 0.78rem;
-  letter-spacing: 0.16em;
+  font-weight: 400;
+  font-size: 0.85rem;
   text-transform: uppercase;
-  opacity: 0.85;
+  letter-spacing: 0.05em;
+  line-height: 1.45;
+}
+
+.cat-designer {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1rem;
+  color: var(--olive-soft);
+  margin-top: 2px;
+}
+
+.cat-desc {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  opacity: 0.8;
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cat-links {
+  display: flex;
+  gap: 18px;
+  margin-top: 0.8rem;
+}
+
+.cat-links a {
+  font-family: var(--display);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 3px;
+  transition: border-color 0.25s, color 0.25s;
+}
+
+.cat-links a:hover { border-bottom-color: var(--ink); }
+
+.cat-links .cat-scheda { color: var(--olive-soft); }
+
+.cat-empty {
+  text-align: center;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 20px;
+  color: var(--olive-soft);
+  padding-block: 40px;
 }
 
 /* ---------- Steps ---------- */
@@ -413,6 +463,7 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
 
 @media (max-width: 980px) {
   .cards-grid { grid-template-columns: repeat(2, 1fr); }
+  .cat-grid { grid-template-columns: repeat(3, 1fr); }
   .steps { grid-template-columns: repeat(2, 1fr); }
   .why-grid { grid-template-columns: repeat(2, 1fr); }
 }
@@ -430,8 +481,7 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
   .logo img { width: 150px; }
 
   .cards-grid { grid-template-columns: 1fr; }
-  .gallery { grid-template-columns: repeat(2, 1fr); }
-  .collection-row { grid-template-columns: 1fr; gap: 40px; }
+  .cat-grid { grid-template-columns: repeat(2, 1fr); }
   .steps { grid-template-columns: 1fr; }
   .why-grid { grid-template-columns: 1fr; }
 }

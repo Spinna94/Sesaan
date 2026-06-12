@@ -1,0 +1,626 @@
+[
+ {
+  "nome": "Azteca 2024",
+  "designer": "N. Ceccarelli",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Opera contemporanea dell’artista Nicolò Ceccarelli. Nipote d’arte di Nerone Ceccarelli cofondatore di NP2 (Nerone Patuzzi). Tecnica mista fogli doro,…",
+  "img": "assets/img/catalogo/azteca-2024.png",
+  "scheda": "https://sesaan.com/prodotto/azteca-2024/"
+ },
+ {
+  "nome": "Busti in ceramica",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Antino, Venere, Hercules, David… Questi sono solo alcuni dei busti in ceramica disponibili in varie dimensioni, finiture e colori, appartenenti alla…",
+  "img": "assets/img/catalogo/busti-in-ceramica-0068.png",
+  "scheda": "https://sesaan.com/prodotto/busti-in-ceramica-0068/"
+ },
+ {
+  "nome": "Cerus",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Sculture in ceramica realizzate a mano di diverse forme e colori. Superfici lisce e lucenti dai colori eleganti e giocosi allo stesso tempo.",
+  "img": "assets/img/catalogo/cerus-0114.png",
+  "scheda": "https://sesaan.com/prodotto/cerus-0114/"
+ },
+ {
+  "nome": "Golden Edition",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Ceramiche vicentine di varie forme e Specchiera placcate in oro 24K. .st0 { fill: #fff; } Per saperne di più Prodotti correlati /* widget: Content Carousel…",
+  "img": "assets/img/catalogo/golden-edition.png",
+  "scheda": "https://sesaan.com/prodotto/golden-edition/"
+ },
+ {
+  "nome": "Hippo Collection",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Ippopotami in ceramica smaltata lucida o opaca con possibilità di floccatura (velluto) ordinabili in qualsaisi colore RAL ed in tre diverse dimensioni.…",
+  "img": "assets/img/catalogo/hippo-collection-0141.png",
+  "scheda": "https://sesaan.com/prodotto/hippo-collection-0141/"
+ },
+ {
+  "nome": "Hippo Collection",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Ippopotami in ceramica smaltata lucida o opaca con possibilità di floccatura (velluto) ordinabili in qualsaisi colore RAL ed in tre diverse dimensioni.…",
+  "img": "assets/img/catalogo/hippo-collection-0096.png",
+  "scheda": "https://sesaan.com/prodotto/hippo-collection-0096/"
+ },
+ {
+  "nome": "Hippo Collection",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Ippopotami in ceramica smaltata lucida o opaca con possibilità di floccatura (velluto) ordinabili in qualsaisi colore RAL ed in tre diverse dimensioni.…",
+  "img": "assets/img/catalogo/hippo-collection-0083.png",
+  "scheda": "https://sesaan.com/prodotto/hippo-collection-0083/"
+ },
+ {
+  "nome": "Manifesti storici d’epoca",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "A seconda della disponibilità, proponiamo manifesti originali d’epoca o ristampe delle più importanti marche, manifestazioni, eventi o correnti culturali.…",
+  "img": "assets/img/catalogo/manifesti-storici-depoca-2.png",
+  "scheda": "https://sesaan.com/prodotto/manifesti-storici-depoca-2/"
+ },
+ {
+  "nome": "Manifesti storici d’epoca",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "A seconda della disponibilità, proponiamo manifesti originali d’epoca o ristampe delle più importanti marche, manifestazioni, eventi o correnti culturali.…",
+  "img": "assets/img/catalogo/manifesti-storici-depoca.png",
+  "scheda": "https://sesaan.com/prodotto/manifesti-storici-depoca/"
+ },
+ {
+  "nome": "Maya II",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Tecnica mista fogli d’argento e bitume, acrilico rosso. .st0 { fill: #fff; } Per saperne di più Prodotti correlati /* widget: Content Carousel */…",
+  "img": "assets/img/catalogo/maya-ii.png",
+  "scheda": "https://sesaan.com/prodotto/maya-ii/"
+ },
+ {
+  "nome": "Piantina in velluto",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Diverse tipologie di piantine alte e basse floccate in vari colori della collezione “Insolite Objects” di Adriani&Rossi. .st0 { fill: #fff; } Per saperne di…",
+  "img": "assets/img/catalogo/piantina-in-velluto-0122.png",
+  "scheda": "https://sesaan.com/prodotto/piantina-in-velluto-0122/"
+ },
+ {
+  "nome": "Piantina in velluto",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Diverse tipologie di piantine alte e basse floccate in vari colori della collezione “Insolite Objects” di Adriani&Rossi. .st0 { fill: #fff; } Per saperne di…",
+  "img": "assets/img/catalogo/piantina-in-velluto-0028.png",
+  "scheda": "https://sesaan.com/prodotto/piantina-in-velluto-0028/"
+ },
+ {
+  "nome": "Scimmietta in ceramica",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Simpatica scimmietta decorativa in ceramica, mascotte del negozio SESAAN DESIGN STUDIO .st0 { fill: #fff; } Per saperne di più Prodotti correlati /* widget:…",
+  "img": "assets/img/catalogo/scimmietta-in-ceramica.png",
+  "scheda": "https://sesaan.com/prodotto/scimmietta-in-ceramica/"
+ },
+ {
+  "nome": "Trees",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Sempreverdi in edizione limitata a soli 100 esemplari realizzati da Simone Spagnolo per SESAAN DESIGN STUDIO costituiti da tre coni di altezze diverse in…",
+  "img": "assets/img/catalogo/trees.png",
+  "scheda": "https://sesaan.com/prodotto/trees/"
+ },
+ {
+  "nome": "Vasi in vetro",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Ampia scelta di vasi in vetro soffiato di diversa forma e colore per interni prodotti da Adriani&Rossi. .st0 { fill: #fff; } Per saperne di più Prodotti…",
+  "img": "assets/img/catalogo/vasi-in-vetro.png",
+  "scheda": "https://sesaan.com/prodotto/vasi-in-vetro/"
+ },
+ {
+  "nome": "Vaso Carioca",
+  "designer": "",
+  "gruppo": "Complementi e decorazioni",
+  "descrizione": "Vaso in edizione limitata realizzato in ceramica dipinta a mano rappresentante i colori del carnevale. La sua forma è ispirata alla lampada di Aladino nel…",
+  "img": "assets/img/catalogo/vaso-carioca.png",
+  "scheda": "https://sesaan.com/prodotto/vaso-carioca/"
+ },
+ {
+  "nome": "Lampada Buonanotte",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Lampada da tavolo dal design giocoso e innovativo nata nel 1965 dal disegno di Giovanni Luigi Gorgoni. Le due quartine in metallo, regolabili sopra il…",
+  "img": "assets/img/catalogo/lampada-buonanotte.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-buonanotte/"
+ },
+ {
+  "nome": "Lampada Cielo Terra (1950)",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Secondo le disponibilità proporremo lampade, piantane e lampadari vintage come questa originale lampada cielo e terra (anni 1950/1960) realizzata da…",
+  "img": "assets/img/catalogo/lampada-cielo-terra-1950.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-cielo-terra-1950/"
+ },
+ {
+  "nome": "Lampada Gravitino",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "La gravitino incarna perfettamente innovazione ed estetica. Disegnata da Antonio Cassia nel 1969, è caratterizzata da un sistema magnetico che collega con…",
+  "img": "assets/img/catalogo/lampada-gravitino.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-gravitino/"
+ },
+ {
+  "nome": "Lampada Pendente La Mariée",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Disegnata da Mirco Crosatto nel 2018, La Marièe rappresenta la perfetta sintesi tra leggerezza e materia. Una sfera di vetro soffiato che rivela una luce…",
+  "img": "assets/img/catalogo/lampada-pendente-la-mariee-2.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-pendente-la-mariee-2/"
+ },
+ {
+  "nome": "Lampada Valigia",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Prodotta da Stilnovo, questa lampada da tavolo disegnata da Ettore Sottsass che sfida con irriverenza le regole della forma e della funzione, ridefinendo…",
+  "img": "assets/img/catalogo/lampada-valigia.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-valigia/"
+ },
+ {
+  "nome": "Lampada a sospensione",
+  "designer": "Model 2065",
+  "gruppo": "Illuminazione",
+  "descrizione": "Il design semplice e la leggerezza dei materiali rendono questa invenzione di Gino Sarfatti elegante e sospesa. La forma ellittica del diffusore ne…",
+  "img": "assets/img/catalogo/lampada-a-sospensione-model-2065.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-a-sospensione-model-2065/"
+ },
+ {
+  "nome": "Lampada da parete FIUME",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Faretto cilindrico orientabile in acciaio nero satinato o specchiato. Disponbile anche in ottone. Disegno di Paolo Varola. .st0 { fill: #fff; } Per saperne…",
+  "img": "assets/img/catalogo/lampada-da-parete-fiume.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-da-parete-fiume/"
+ },
+ {
+  "nome": "Lampada da parete “L”",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "“L” come LUCE, questa lampada da parete dalla linea essenziale e funzionale deve il suo nome alla lettera dell’alfabeto latino. Struttura in acciaio…",
+  "img": "assets/img/catalogo/lampada-da-parete-l.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-da-parete-l/"
+ },
+ {
+  "nome": "Lampada da sospensione FIUME",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Pendenti tubolari minimal ed eleganti in acciaio nero o specchiato, disponibile anche in ottone. Disegno di Paolo Varola. .st0 { fill: #fff; } Per saperne…",
+  "img": "assets/img/catalogo/lampada-da-sospensione-fiume.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-da-sospensione-fiume/"
+ },
+ {
+  "nome": "Lampada da tavolo",
+  "designer": "Model 537",
+  "gruppo": "Illuminazione",
+  "descrizione": "Lampada dalla raffinata semplicità disegnata da Gino Sarfatti nel 1950, caratterizzata dalla base in marmo e dallo stelo che, asimettricamente ed in modo…",
+  "img": "assets/img/catalogo/lampada-da-tavolo-model-537.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-da-tavolo-model-537/"
+ },
+ {
+  "nome": "Lampada da tavolo Torino",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Ultima creazione di casa Stilnovo, la lampada Torino di Asahara è il perfetto connubio tra lo stile e la versatilità. Si distingue per il suo braccio…",
+  "img": "assets/img/catalogo/lampada-da-tavolo-torino.png",
+  "scheda": "https://sesaan.com/prodotto/lampada-da-tavolo-torino/"
+ },
+ {
+  "nome": "Lampadario Circles",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Lampadario costituito da cerchi concentrici rivestiti in foglia d’oro orientabili a piacere. .st0 { fill: #fff; } Per saperne di più Prodotti correlati /*…",
+  "img": "assets/img/catalogo/lampadario-circles.png",
+  "scheda": "https://sesaan.com/prodotto/lampadario-circles/"
+ },
+ {
+  "nome": "Lampadario Megafono",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Megafono è un’icona senza tempo disegnata nel 1958 e capace ancora oggi di definire lo stile con la sua silhouette e dettagli impeccabili. Una sospensione…",
+  "img": "assets/img/catalogo/lampadario-megafono.png",
+  "scheda": "https://sesaan.com/prodotto/lampadario-megafono/"
+ },
+ {
+  "nome": "Lampiatta",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Lampiatta rappresenta un perfetto esempio di design funzionale e innovativo. Senza l’uso di snodi o meccanismi complessi, il paralume può essere facilmente…",
+  "img": "assets/img/catalogo/lampiatta.png",
+  "scheda": "https://sesaan.com/prodotto/lampiatta/"
+ },
+ {
+  "nome": "Minitopo",
+  "designer": "",
+  "gruppo": "Illuminazione",
+  "descrizione": "Lampada da tavolo che incarna le linee automobilistiche delle auto anni ’60, creando una connessione tra il design industriale e l’illuminazione. Progetto…",
+  "img": "assets/img/catalogo/minitopo.png",
+  "scheda": "https://sesaan.com/prodotto/minitopo/"
+ },
+ {
+  "nome": "Credenza Vano",
+  "designer": "",
+  "gruppo": "Mobili e credenze",
+  "descrizione": "Vano è una credenza progettata dallo studio SESAAN caratterizzata dal profilo minimale ed essenziale per integrarsi con eleganza in ambienti living,…",
+  "img": "assets/img/catalogo/credenza-vano.png",
+  "scheda": "https://sesaan.com/prodotto/credenza-vano/"
+ },
+ {
+  "nome": "Cucina su misura",
+  "designer": "",
+  "gruppo": "Mobili e credenze",
+  "descrizione": "Contattaci per progettare la tua nuova cucina Aster. Soluzioni sartoriali per chi desidera la massima qualità nei materiali e finiture, dalle ante al top,…",
+  "img": "assets/img/catalogo/cucina-su-misura.png",
+  "scheda": "https://sesaan.com/prodotto/cucina-su-misura/"
+ },
+ {
+  "nome": "Libreria Singolo",
+  "designer": "",
+  "gruppo": "Mobili e credenze",
+  "descrizione": "Libreria modulare in legno massello in varie altezze. Può essere utilizzata a parete o per dividere due ambienti. Un oggetto che supera il concetto di…",
+  "img": "assets/img/catalogo/libreria-singolo.png",
+  "scheda": "https://sesaan.com/prodotto/libreria-singolo/"
+ },
+ {
+  "nome": "Libreria Slot",
+  "designer": "",
+  "gruppo": "Mobili e credenze",
+  "descrizione": "Libreria modulare prodotta da Kico. Componibile in diverse configurazioni a seconda del numero e disposizione dei moduli. Anche I cubi contenitori, sia…",
+  "img": "assets/img/catalogo/libreria-slot.png",
+  "scheda": "https://sesaan.com/prodotto/libreria-slot/"
+ },
+ {
+  "nome": "Divano Le Corbusier",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Iconico divano in pelle dal design immortale. Struttura in tubolare d’acciaio cromato o verniciato e imbottitura in poliuretano espanso. Rivestimento in…",
+  "img": "assets/img/catalogo/divano-le-corbusier.png",
+  "scheda": "https://sesaan.com/prodotto/divano-le-corbusier/"
+ },
+ {
+  "nome": "Kadrega",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Dal disegno del 2008 del geniale Huub Ubbens, Kadrega rappresenta una semplicità complicata presentandosi come una calligrafia in tre dimensioni con…",
+  "img": "assets/img/catalogo/kadrega.png",
+  "scheda": "https://sesaan.com/prodotto/kadrega/"
+ },
+ {
+  "nome": "Paso Doble",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Nominata come miglior prodotto presentato al Salone del Mobile 2001 di Milano, Pasodoble di Enrico Davide Bona entra di diritto nella serie ICON CHAIRS di…",
+  "img": "assets/img/catalogo/paso-doble.png",
+  "scheda": "https://sesaan.com/prodotto/paso-doble/"
+ },
+ {
+  "nome": "Poltrona Agnese",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Tacchini ripropone una delle poltrone più celebri disegnate da Gianfranco Frattini, il modello 849 del 1956. Agnese è un’icona del design italiano…",
+  "img": "assets/img/catalogo/poltrona-agnese.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-agnese/"
+ },
+ {
+  "nome": "Poltrona Chassis",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Elegante poltrona realizzata artigianalmente con gambe e schienale in legno massello. Seduta in noce canaletto imbottita e rivestita in tessuto tortora.…",
+  "img": "assets/img/catalogo/poltrona-chassis.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-chassis/"
+ },
+ {
+  "nome": "Poltrona Costela",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Leggendaria e comoda poltrona con pouf disegnata da Martin Eisler negli anni ’50 e riproposta dalla Tacchini. Vari colori e finiture disponibili. .st0 {…",
+  "img": "assets/img/catalogo/poltrona-costela.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-costela/"
+ },
+ {
+  "nome": "Poltrona Gazzella",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Gazzella nasce da un progetto caratterizzato da linee rette e morbide curve in grado di definire una seduta senza tempo adattabile a differenti ambienti.…",
+  "img": "assets/img/catalogo/poltrona-gazzella.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-gazzella/"
+ },
+ {
+  "nome": "Poltrona Le Corbusier",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Poltrona dall’inconfondibile design con strutture in tubolare d’acciaio cromato o verniciato, imbottitura in espanso e rivestimento in pelle o tessuto.…",
+  "img": "assets/img/catalogo/poltrona-le-corbusier.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-le-corbusier/"
+ },
+ {
+  "nome": "Poltrona Reversivél",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Firmata dalla geniale creatività dell’architetto e designer Martin Eisler, la riedizione di Reversível propone un doppio comfort grazie alla seduta…",
+  "img": "assets/img/catalogo/poltrona-reversivel.png",
+  "scheda": "https://sesaan.com/prodotto/poltrona-reversivel/"
+ },
+ {
+  "nome": "Poltroncina Kelly",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "La poltrona Kelly prodotta dalla Gurian rappresenta un nuovo concetto di attuale classicità arricchito eventualmente dall’esclusivo pouf coordinato. Varie…",
+  "img": "assets/img/catalogo/poltroncina-kelly.png",
+  "scheda": "https://sesaan.com/prodotto/poltroncina-kelly/"
+ },
+ {
+  "nome": "Ponti 940",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Disegnata da Gio Ponti nel 1940, questa iconica sedia rappresenta le correnti moderniste dell’epoca. La svasatura delle gambe e gli stondi dello schienale…",
+  "img": "assets/img/catalogo/ponti-940.png",
+  "scheda": "https://sesaan.com/prodotto/ponti-940/"
+ },
+ {
+  "nome": "Quattrogambe",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Disegnata da Jasper Morrison nel 1999 con un tratto elegante e minimale. Sedia pulita, pratica e confortevole rappresenta il concetto di tutta la produzione…",
+  "img": "assets/img/catalogo/quattrogambe.png",
+  "scheda": "https://sesaan.com/prodotto/quattrogambe/"
+ },
+ {
+  "nome": "Sedia Foulard",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Sedia con struttura in acciaio, sedile e schienale imbottito in tessuto, disponibile in vari colori e finiture. Opzionale il piedino in ottone. .st0 { fill:…",
+  "img": "assets/img/catalogo/sedia-foulard.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-foulard/"
+ },
+ {
+  "nome": "Sedia Giotto",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Dalla mano dell’architetto Marco Piva nel 2024, la sedia Giotto presenta una struttura in metallo disponibile in vari colori rivestita in tessuto,…",
+  "img": "assets/img/catalogo/sedia-giotto-icon-chairs.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-giotto-icon-chairs/"
+ },
+ {
+  "nome": "Sedia Lucrezia",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Linee semplici e fluide per una seduta dalla moderna eleganza. Era questo l’obiettivo dell’architetto Marco Piva durante il progetto della sedia Lucrezia,…",
+  "img": "assets/img/catalogo/sedia-lucrezia-icon-chairs.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-lucrezia-icon-chairs/"
+ },
+ {
+  "nome": "Sedia Marcel Breuer",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Iconica sedia in tubo d’acciaio cromato o verniciato. Seduta e schienale in paglia di Vienna. Disponibile con o senza braccioli e con diversi colorazioni.…",
+  "img": "assets/img/catalogo/sedia-marcel-breuer-0119.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-marcel-breuer-0119/"
+ },
+ {
+  "nome": "Sedia Pigreco",
+  "designer": "",
+  "gruppo": "Sedute",
+  "descrizione": "Iconica sedia di Tobia Scarpa del 1959 riprodotta da TACCHINI in diverse finiture e colori. .st0 { fill: #fff; } Per saperne di più Prodotti correlati /*…",
+  "img": "assets/img/catalogo/sedia-pigreco.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-pigreco/"
+ },
+ {
+  "nome": "Sedia Ponti 969",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Disegnata da Gio Ponti nel 1969 come rivisitazione della sedie a volute del 1936. Esalta l’aspirazione classica nel segno di Gio Ponti con uno schienale a…",
+  "img": "assets/img/catalogo/sedia-ponti-969-icon-chairs.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-ponti-969-icon-chairs/"
+ },
+ {
+  "nome": "Sedia Tucroma",
+  "designer": "Guido Faleschini",
+  "gruppo": "Sedute",
+  "descrizione": "Riedizione di un grande successo del 1971 dell’Architetto Guido Faleschini, la sedia Tucroma è ancora oggi tra i pezzi più richiesti della collezione i 4…",
+  "img": "assets/img/catalogo/sedia-tucroma.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-tucroma/"
+ },
+ {
+  "nome": "Sedia Venezia",
+  "designer": "Icon Chairs",
+  "gruppo": "Sedute",
+  "descrizione": "Venezia, disegnata da Paolo Favaretto nel 2006 si impone con carattere differenziandosi da tutto il resto. Il suo profilo si ispira all’inconfondibile…",
+  "img": "assets/img/catalogo/sedia-venezia-icon-chairs.png",
+  "scheda": "https://sesaan.com/prodotto/sedia-venezia-icon-chairs/"
+ },
+ {
+  "nome": "Specchi Shimmer",
+  "designer": "Diametro 80",
+  "gruppo": "Specchi",
+  "descrizione": "Specchi da parete di diversa misura disegnati da Patricia Urquiola e realizzati in vetro stratificato con una speciale finitura multicromatica cangiante la…",
+  "img": "assets/img/catalogo/specchi-shimmer-diametro-80.png",
+  "scheda": "https://sesaan.com/prodotto/specchi-shimmer-diametro-80/"
+ },
+ {
+  "nome": "Specchi Shimmer",
+  "designer": "Diametro 60",
+  "gruppo": "Specchi",
+  "descrizione": "Specchi da parete di diversa misura disegnati da Patricia Urquiola e realizzati in vetro stratificato con una speciale finitura multicromatica cangiante la…",
+  "img": "assets/img/catalogo/specchi-shimmer-diametro-60.png",
+  "scheda": "https://sesaan.com/prodotto/specchi-shimmer-diametro-60/"
+ },
+ {
+  "nome": "Specchio Edes",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Specchio esagonale in noce canaletto, disponibile in due misure. .st0 { fill: #fff; } Per saperne di più Prodotti correlati /* widget: Content Carousel */…",
+  "img": "assets/img/catalogo/specchio-edes.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-edes/"
+ },
+ {
+  "nome": "Specchio Fiction",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Specchi progettati dal designer Jean-Marie Massaud costituiti da cristallo extrachiaro con argentatura sfumata a gradiente. .st0 { fill: #fff; } Per saperne…",
+  "img": "assets/img/catalogo/specchio-fiction.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-fiction/"
+ },
+ {
+  "nome": "Specchio Puzzle",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Specchio da parete in cristallo sagomato, molato e argentato disegnato da nanda Vigo e prodotto da Glas Italia fino al 1995 ca. .st0 { fill: #fff; } Per…",
+  "img": "assets/img/catalogo/specchio-puzzle.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-puzzle/"
+ },
+ {
+  "nome": "Specchio Scornice",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Progettata da Nanda Vigo, la serie di specchi “Scornice” è caratterizzata da decori satinati sulla superficie trasparente ed una bisellatura che sottolinea…",
+  "img": "assets/img/catalogo/specchio-scornice.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-scornice/"
+ },
+ {
+  "nome": "Specchio Scribbles",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Yabu Pushelberg è il geniale ideatore di questa collezione di specchi caratterizzati da una superficie specchiante che rappresenta un gesto artistico…",
+  "img": "assets/img/catalogo/specchio-scribbles.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-scribbles/"
+ },
+ {
+  "nome": "Specchio Volt",
+  "designer": "",
+  "gruppo": "Specchi",
+  "descrizione": "Realizzato in ferro curvato, da cui deriva il nome, lo specchio VOLT rappresenta una scultura riflettente dove la linearità si piega alla tensione della…",
+  "img": "assets/img/catalogo/specchio-volt.png",
+  "scheda": "https://sesaan.com/prodotto/specchio-volt/"
+ },
+ {
+  "nome": "Comodino Volt",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Prodotto da SESAAN DESIGN STUDIO, questo comodino appartiene alla linea VOLT, che deve il suo nome alla ripiegatura del metallo che lo costituisce.…",
+  "img": "assets/img/catalogo/comodino-volt.png",
+  "scheda": "https://sesaan.com/prodotto/comodino-volt/"
+ },
+ {
+  "nome": "Consolle Volt",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Prodotto da SESAAN DESIGN STUDIO, questa consolle minimale appartiene alla linea VOLT, che deve il suo nome alla ripiegatura del metallo che lo costituisce.…",
+  "img": "assets/img/catalogo/consolle-volt.png",
+  "scheda": "https://sesaan.com/prodotto/consolle-volt/"
+ },
+ {
+  "nome": "Drua",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Drua è una collezione di tavolini dello studio SESAAN che non segue linee, ma forme. Nato da un’idea fluida, viva, che richiama la crescita delle piante e…",
+  "img": "assets/img/catalogo/drua-0079.png",
+  "scheda": "https://sesaan.com/prodotto/drua-0079/"
+ },
+ {
+  "nome": "Tavolino Crack",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Serie di tavolini bassi con luce dimmerabile a forma di parallelepipedo disegnati da Johanna Grawunder in modo da formare una decorazione di frammenti…",
+  "img": "assets/img/catalogo/tavolino-crack.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-crack/"
+ },
+ {
+  "nome": "Tavolino Donald",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Serie di tavolini/espositori parallelepipedi ideati da Philippe Starck per custodire gli oggetti in essi contenuti. Coperchio in cristallo disponibile in…",
+  "img": "assets/img/catalogo/tavolino-donald-2.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-donald-2/"
+ },
+ {
+  "nome": "Tavolino Donald",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Serie di tavolini/espositori parallelepipedi ideati da Philippe Starck per custodire gli oggetti in essi contenuti. Coperchio in cristallo disponibile in…",
+  "img": "assets/img/catalogo/tavolino-donald.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-donald/"
+ },
+ {
+  "nome": "Tavolino Eileen Gray",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolo basso con piano in cristallo e struttura cromata o in acciaio lucidato a specchio ad altezza regolabile. Il piedino semicilindrico aperto è ideato…",
+  "img": "assets/img/catalogo/tavolino-eileen-gray.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-eileen-gray/"
+ },
+ {
+  "nome": "Tavolino Galileo",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Struttura in tubo d’acciao cromato verniciato, piano in laminato plastico bianco o nero. Produzione Sigerico. .st0 { fill: #fff; } Per saperne di più…",
+  "img": "assets/img/catalogo/tavolino-galileo.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-galileo/"
+ },
+ {
+  "nome": "Tavolino L.A. Sunset",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Firmata dalla geniale creatività dell’architetto e designer Martin Eisler, la riedizione di Reversível propone un doppio comfort grazie alla seduta…",
+  "img": "assets/img/catalogo/tavolino-l-a-sunset.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-l-a-sunset/"
+ },
+ {
+  "nome": "Tavolino Spectrum",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Sofisticato coffee table di Piero Lissoni realizzato incollando lastre di cristallo di diverse qualità e finiture ai lati di un fondo specchiante. Il…",
+  "img": "assets/img/catalogo/tavolino-spectrum.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-spectrum/"
+ },
+ {
+  "nome": "Tavolino Tea",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolino con base in vetro in due diverse altezze e top in legno massello avente forma a tappo o vassoio, in varie essenze. .st0 { fill: #fff; } Per saperne…",
+  "img": "assets/img/catalogo/tavolino-tea.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-tea/"
+ },
+ {
+  "nome": "Tavolino Tea Piccolo",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolino con base in vetro in due diverse altezze e top in legno massello avente forma a tappo o vassoio, in varie essenze. .st0 { fill: #fff; } Per saperne…",
+  "img": "assets/img/catalogo/tavolino-tea-piccolo.png",
+  "scheda": "https://sesaan.com/prodotto/tavolino-tea-piccolo/"
+ },
+ {
+  "nome": "Tavolo Arcora",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolo rotondo costituito da gambe cilindriche in ferro. Il piano può essere scelto tra diverse finiture e colori così come la dimensione, su misura secondo…",
+  "img": "assets/img/catalogo/tavolo-arcora.png",
+  "scheda": "https://sesaan.com/prodotto/tavolo-arcora/"
+ },
+ {
+  "nome": "Tavolo Saarinen",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolo dalla linea inconfondibile realizzato con piedistallo in fusione di alluminio laccato lucido bianco o nero, con piano in varie tipologie di marmo o…",
+  "img": "assets/img/catalogo/tavolo-saarinen.png",
+  "scheda": "https://sesaan.com/prodotto/tavolo-saarinen/"
+ },
+ {
+  "nome": "Tavolo Segmenti",
+  "designer": "",
+  "gruppo": "Tavoli e tavolini",
+  "descrizione": "Tavolo prodotto da SESAAN DESIGN STUDIO con gambe indipendenti in ferro realizzabile su misura in molteplici configurazioni materiche: legno massello,…",
+  "img": "assets/img/catalogo/tavolo-segmenti.png",
+  "scheda": "https://sesaan.com/prodotto/tavolo-segmenti/"
+ }
+]
