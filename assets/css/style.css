@@ -95,63 +95,26 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
 }
 
 .header-inner {
+  position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   height: 72px;
+  max-width: none; /* header a tutta larghezza: logo verso il bordo, come l'originale */
 }
 
 .logo img { width: 220px; height: auto; }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-  gap: 2.8rem;
-  font-size: 0.95rem;
-  font-weight: 400;
-}
-
-.site-nav a {
-  color: var(--paper);
-  text-decoration: none;
-  letter-spacing: 0.03em;
-  padding-block: 4px;
-  border-bottom: 1px solid transparent;
-  opacity: 0.92;
-  transition: opacity 0.25s, border-color 0.25s;
-}
-
-.site-nav a:hover { opacity: 1; border-bottom-color: rgba(255, 255, 255, 0.6); }
-
-.site-nav a.active {
-  opacity: 1;
-  border-bottom-color: var(--paper);
-}
-
-.nav-toggle {
-  display: none;
-  background: none;
-  border: 0;
-  width: 40px;
-  height: 40px;
-  cursor: pointer;
-  position: relative;
-}
-
-.nav-toggle span {
+.header-title {
   position: absolute;
-  left: 8px;
-  right: 8px;
-  height: 1.5px;
-  background: var(--paper);
-  transition: transform 0.3s, top 0.3s;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-family: var(--display);
+  font-size: 1rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--paper);
 }
-
-.nav-toggle span:nth-child(1) { top: 15px; }
-.nav-toggle span:nth-child(2) { top: 24px; }
-
-.nav-toggle[aria-expanded="true"] span:nth-child(1) { top: 19px; transform: rotate(45deg); }
-.nav-toggle[aria-expanded="true"] span:nth-child(2) { top: 19px; transform: rotate(-45deg); }
 
 /* ---------- Hero full-width ---------- */
 
@@ -455,35 +418,16 @@ h2 { font-size: clamp(1.5rem, 2.8vw, 2.2rem); }
 }
 
 @media (max-width: 720px) {
-  .site-nav {
-    position: fixed;
-    inset: 72px 0 auto 0;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 0;
-    background: var(--ink);
-    padding: 12px var(--gutter) 24px;
-    transform: translateY(-12px);
-    opacity: 0;
-    visibility: hidden;
-    transition: transform 0.3s, opacity 0.3s, visibility 0.3s;
+  /* su schermi stretti il titolo centrato si sovrapporrebbe al logo */
+  .header-inner { justify-content: space-between; }
+
+  .header-title {
+    position: static;
+    transform: none;
+    font-size: 0.85rem;
   }
 
-  .site-nav.open {
-    transform: translateY(0);
-    opacity: 1;
-    visibility: visible;
-  }
-
-  .site-nav a {
-    padding: 14px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-    font-size: 1rem;
-  }
-
-  .nav-toggle { display: block; }
-
-  .logo img { width: 165px; }
+  .logo img { width: 150px; }
 
   .cards-grid { grid-template-columns: 1fr; }
   .gallery { grid-template-columns: repeat(2, 1fr); }

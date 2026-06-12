@@ -1,22 +1,6 @@
-/* SESAAN — Noleggio: menu mobile + animazioni di scroll (GSAP ScrollTrigger) */
+/* SESAAN — Noleggio: animazioni di scroll (GSAP ScrollTrigger) */
 
 (function () {
-  // --- Menu mobile ---
-  const toggle = document.getElementById("nav-toggle");
-  const nav = document.getElementById("site-nav");
-
-  toggle.addEventListener("click", () => {
-    const open = nav.classList.toggle("open");
-    toggle.setAttribute("aria-expanded", String(open));
-  });
-
-  nav.addEventListener("click", (e) => {
-    if (e.target.tagName === "A") {
-      nav.classList.remove("open");
-      toggle.setAttribute("aria-expanded", "false");
-    }
-  });
-
   // --- Animazioni di scroll ---
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   if (reduceMotion || typeof gsap === "undefined") return;
