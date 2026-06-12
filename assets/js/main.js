@@ -51,12 +51,12 @@
       ),
   });
 
-  // Parallasse leggera sull'immagine hero
-  gsap.to(".hero-media img", {
-    yPercent: 8,
+  // Parallasse leggera sull'immagine hero full-width
+  gsap.to(".hero-banner img", {
+    yPercent: 10,
     ease: "none",
     scrollTrigger: {
-      trigger: ".hero",
+      trigger: ".hero-banner",
       start: "top top",
       end: "bottom top",
       scrub: true,

@@ -8,7 +8,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="preload" href="assets/fonts/Geometos.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -16,14 +17,14 @@
   <header class="site-header">
     <div class="container header-inner">
       <a href="https://sesaan.com" class="logo" aria-label="SESAAN Design Studio">
-        <img src="assets/img/Sesaan-logo-no-claim.svg" alt="SESAAN" width="195" height="25">
+        <img src="assets/img/Sesaan-logo-no-claim.svg" alt="SESAAN" width="220" height="28">
       </a>
       <nav class="site-nav" id="site-nav" aria-label="Navigazione principale">
         <a href="https://sesaan.com/collezioni/">Collezioni</a>
         <a href="https://sesaan.com/servizi/">Servizi</a>
         <a href="https://sesaan.com/progetti/">Progetti</a>
         <a href="#noleggio" class="active">Noleggio</a>
-        <a href="#contatti" class="nav-cta">Contatti</a>
+        <a href="#contatti">Contatti</a>
       </nav>
       <button class="nav-toggle" id="nav-toggle" aria-label="Apri menu" aria-expanded="false" aria-controls="site-nav">
         <span></span><span></span>
@@ -33,37 +34,29 @@
 
   <main id="noleggio">
 
-    <!-- HERO -->
-    <section class="hero">
-      <div class="container hero-grid">
-        <div class="hero-text">
-          <p class="eyebrow reveal">SESAAN Design Studio — Torino</p>
-          <h1 class="reveal">Noleggio<br><em>e allestimenti</em></h1>
-          <p class="lead reveal">Un'ampia selezione di arredi e complementi di vari stili, in pronta consegna, per realizzazioni teatrali, set cinematografici, eventi inaugurali e open house.</p>
-          <div class="hero-actions reveal">
-            <a href="#contatti" class="btn btn-dark">Richiedi un preventivo</a>
-            <a href="#come-funziona" class="btn btn-ghost">Come funziona</a>
-          </div>
-        </div>
-        <figure class="hero-media reveal-img">
-          <img src="assets/img/noleggio.png" alt="Composizione di arredi SESAAN disponibili a noleggio" loading="eager">
-        </figure>
-      </div>
+    <!-- HERO full-width come la homepage -->
+    <section class="hero-banner">
+      <img src="assets/img/hero-wide.png" alt="Salotto allestito con arredi SESAAN" loading="eager">
     </section>
 
-    <!-- INTRO STRIP -->
-    <section class="strip">
-      <div class="container">
-        <p class="strip-text reveal">Pezzi vintage, design d'autore e arredi contemporanei selezionati con oltre vent'anni di esperienza nella progettazione d'interni.</p>
+    <!-- INTRO centrata -->
+    <section class="section intro">
+      <div class="container narrow center">
+        <h1 class="reveal">Noleggio e allestimenti</h1>
+        <p class="lead reveal">Mettiamo a disposizione un'ampia scelta di arredi e complementi di vari stili, in pronta consegna, per realizzazioni teatrali, set cinematografici, eventi inaugurali e open house. Pezzi vintage, design d'autore e arredi contemporanei selezionati con oltre vent'anni di esperienza nella progettazione d'interni.</p>
+        <div class="actions reveal">
+          <a href="#contatti" class="btn btn-dark">Richiedi un preventivo</a>
+          <a href="#come-funziona" class="btn btn-ghost">Come funziona</a>
+        </div>
       </div>
     </section>
 
     <!-- PER CHI -->
-    <section class="section" id="per-chi">
+    <section class="section section-alt" id="per-chi">
       <div class="container">
-        <header class="section-head reveal">
-          <p class="eyebrow">Per chi</p>
-          <h2>Ogni scena ha bisogno<br>della <em>giusta atmosfera</em></h2>
+        <header class="section-head center reveal">
+          <h2>Ogni scena ha bisogno della giusta atmosfera</h2>
+          <p class="subtitle">Allestimenti temporanei per produzioni, eventi e spazi commerciali</p>
         </header>
         <div class="cards-grid">
           <article class="card reveal">
@@ -103,10 +96,9 @@
     <!-- COSA NOLEGGIAMO -->
     <section class="section section-dark" id="catalogo">
       <div class="container">
-        <header class="section-head reveal">
-          <p class="eyebrow">Cosa noleggiamo</p>
-          <h2>Arredi e complementi<br>per <em>ogni ambiente</em></h2>
-          <p class="section-sub">Dal soggiorno all'esterno, oltre ai pezzi della collezione SESAAN: tavolini, specchi, credenze e sedute d'autore.</p>
+        <header class="section-head center reveal">
+          <h2>Arredi e complementi per ogni ambiente</h2>
+          <p class="subtitle">Dal soggiorno all'esterno, oltre ai pezzi della collezione SESAAN</p>
         </header>
         <div class="gallery">
           <figure class="gallery-item reveal-img"><img src="assets/img/soggiorno.png" alt="Arredi per soggiorno" loading="lazy"><figcaption>Soggiorno</figcaption></figure>
@@ -127,9 +119,9 @@
     <!-- COME FUNZIONA -->
     <section class="section" id="come-funziona">
       <div class="container">
-        <header class="section-head reveal">
-          <p class="eyebrow">Come funziona</p>
-          <h2>Dal brief al ritiro,<br><em>senza pensieri</em></h2>
+        <header class="section-head center reveal">
+          <h2>Dal brief al ritiro, senza pensieri</h2>
+          <p class="subtitle">Quattro passaggi, tutto incluso</p>
         </header>
         <ol class="steps">
           <li class="step reveal">
@@ -157,7 +149,7 @@
     </section>
 
     <!-- PERCHÉ SESAAN -->
-    <section class="strip strip-olive">
+    <section class="strip-dark">
       <div class="container why-grid">
         <div class="why reveal"><h3>20+ anni</h3><p>di esperienza nel design e nella progettazione d'interni</p></div>
         <div class="why reveal"><h3>Pronta consegna</h3><p>inventario disponibile per i tempi stretti delle produzioni</p></div>
@@ -168,13 +160,12 @@
 
     <!-- CONTATTI -->
     <section class="section" id="contatti">
-      <div class="container contact-grid">
-        <div class="contact-text reveal">
-          <p class="eyebrow">Contatti</p>
-          <h2>Richiedi un<br><em>preventivo</em></h2>
-          <p class="lead">Scrivici due righe sul tuo progetto: ti rispondiamo con una proposta di pezzi disponibili e un preventivo su misura.</p>
-        </div>
-        <div class="contact-details reveal">
+      <div class="container">
+        <header class="section-head center reveal">
+          <h2>Richiedi un preventivo</h2>
+          <p class="subtitle">Scrivici due righe sul tuo progetto: ti rispondiamo con una proposta di pezzi disponibili e un preventivo su misura</p>
+        </header>
+        <div class="contact-details narrow reveal">
           <a class="contact-line" href="mailto:info@sesaan.it?subject=Richiesta%20preventivo%20noleggio">
             <span class="contact-label">Email</span>
             <span class="contact-value">info@sesaan.it</span>
@@ -203,7 +194,7 @@
 
   <footer class="site-footer">
     <div class="container footer-inner">
-      <img src="assets/img/Sesaan-logo-no-claim.svg" alt="SESAAN" class="footer-logo" width="156" height="20">
+      <img src="assets/img/Sesaan-logo-no-claim.svg" alt="SESAAN" class="footer-logo" width="180" height="23">
       <p>P.IVA 12458670010 — REA: TO-1291285 — Via G. Bodoni 7/G, 10123 Torino (TO)</p>
       <p><a href="https://sesaan.com">sesaan.com</a></p>
     </div>
