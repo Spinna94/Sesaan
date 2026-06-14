@@ -33,10 +33,32 @@ GRUPPI = [
 ]
 
 
+# Impalcatura Elementor che la description di WooCommerce trascina dopo il
+# testo reale: il link "Per saperne di più" (con il CSS .st0 dell'icona SVG
+# sfuggito come testo semplice, quindi NON rimovibile togliendo i tag), la
+# sezione "Prodotti correlati" e i widget Content Carousel. Tutto ciò che
+# segue il primo di questi marcatori non fa parte della descrizione.
+BOILERPLATE = re.compile(
+    r"\.st0\b|Per saperne di pi|Prodotti correlati|<!--\s*start|/\*\s*widget",
+    re.IGNORECASE,
+)
+
+
 def pulisci(testo: str) -> str:
-    testo = re.sub(r"<[^>]+>", " ", testo or "")
+    testo = testo or ""
+    # via blocchi <style>/<script> col loro contenuto, non solo i tag
+    testo = re.sub(r"<(style|script)\b[^>]*>.*?</\1>", " ", testo, flags=re.I | re.S)
+    testo = re.sub(r"<[^>]+>", " ", testo)
     testo = html.unescape(testo)
     return re.sub(r"\s+", " ", testo).strip()
+
+
+def descrizione_pulita(testo: str) -> str:
+    """pulisci() ma troncando prima dell'impalcatura Elementor."""
+    m = BOILERPLATE.search(testo or "")
+    if m:
+        testo = testo[: m.start()]
+    return pulisci(testo)
 
 
 def gruppo_di(categorie: list[str]) -> str:
@@ -78,7 +100,7 @@ def main() -> None:
         if breve and not designer and len(breve) < 35 and len(breve.split()) <= 4:
             designer, breve = breve, ""
 
-        descrizione = breve or pulisci(p["description"])
+        descrizione = breve or descrizione_pulita(p["description"])
         if len(descrizione) > 160:
             descrizione = descrizione[:157].rsplit(" ", 1)[0] + "…"
 
